@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args, string v)
+        static void Main(string[] args)
         {
             double odds = .75;
             Random random = new Random();
